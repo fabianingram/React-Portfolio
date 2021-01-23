@@ -10,48 +10,79 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: '',
-  subtitle: '',
+  name: 'Fabian Ingram',
+  subtitle: 'JS Developer',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'profile.png',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+ // resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
+  
+  
+  
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'project5.png',
     title: '',
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/fabianingram/fabianingram.github.io.git', // if no repo, the button will not show up
+  },
+  
+  {
+    id: nanoid(),
+    img: 'project4.png',
+    title: '',
+    info: '',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/fabianingram/fabianingram.github.io.git', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'project3',
     title: '',
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/fabianingram/fabianingram.github.io.git', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'project2.png',
     title: '',
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/fabianingram/fabianingram.github.io.git', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project1.png',
+    title: '',
+    info: '',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/fabianingram/fabianingram.github.io.git', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'newsOnTheBalance.png',
+    title: '',
+    info: '',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/fabianingram/News-On-The-Balance.git', // if no repo, the button will not show up
   },
 ];
 
