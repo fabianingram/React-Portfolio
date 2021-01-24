@@ -17,7 +17,7 @@
 ⚡️ Easy site customization\
 ⚡️ Well organized documentation
 
-To view a demo example, **[click here](<iframe src="https://drive.google.com/file/d/1v3UgmAIoQ-ldQ3FfK29HV9xXD97UaW-6/preview" width="640" height="480"></iframe>**\
+To view a demo example, **[click here]**"https://drive.google.com/file/d/1v3UgmAIoQ-ldQ3FfK29HV9xXD97UaW-6/preview" width="640" height="480">
 
 
 ---
