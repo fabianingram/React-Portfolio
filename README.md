@@ -5,10 +5,8 @@
 
   <br>
 </h2>
-
-<img width="1309" alt="Screen Shot 2021-01-23 at 4 58 58 PM" src="https://user-images.githubusercontent.com/68198938/105619514-8744ea80-5db0-11eb-8f2c-4fb01ad074c9.png">
+<img width="1429" alt="Screen Shot 2021-01-23 at 4 58 39 PM" src="https://user-images.githubusercontent.com/68198938/105619522-97f56080-5db0-11eb-9d2a-72e19ec0dcdb.png">## Features<img width="1309" alt="Screen Shot 2021-01-23 at 4 58 58 PM" src="https://user-images.githubusercontent.com/68198938/105619514-8744ea80-5db0-11eb-8f2c-4fb01ad074c9.png">
 <img width="1206" alt="Screen Shot 2021-01-23 at 4 59 28 PM" src="https://user-images.githubusercontent.com/68198938/105619518-9166e900-5db0-11eb-807d-19b2a14c0e99.png">
-<img width="1429" alt="Screen Shot 2021-01-23 at 4 58 39 PM" src="https://user-images.githubusercontent.com/68198938/105619522-97f56080-5db0-11eb-9d2a-72e19ec0dcdb.png">## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
 ⚡️ One Page Layout built with React\
