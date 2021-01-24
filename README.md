@@ -73,7 +73,7 @@ to deploy app first create file, next type  npx create-react-app (File-name). Af
 
 ## Authors
 
-- **Jacobo Martinez** - [https://github.com/fabianingram](https://github.com/fabianingram)
+- **Fabian Ingram** - [https://github.com/fabianingram](https://github.com/fabianingram)
 
 ## Status
 
