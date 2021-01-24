@@ -50,67 +50,7 @@ yarn@v1.21.1 or higher
 
 From your command line, first clone Simplefolio:
 
-```bash
-# Clone this repository
-$ git clone https://github.com/cobidev/gatsby-simplefolio
 
-# Go into the repository
-$ cd gatsby-simplefolio
-
-# Remove current origin repository
-$ git remote remove origin
-```
-
-Then you can install the dependencies either using NPM or Yarn:
-
-Using NPM:
-
-```bash
-# Install dependencies
-$ npm install
-
-# Start development server
-$ npm run develop
-```
-
-Using Yarn:
-
-```bash
-# Install dependencies
-$ yarn
-
-# Start development server
-$ yarn develop
-```
-
-**NOTE**:
-If your run into issues installing the dependencies with NPM, use this command:
-
-```bash
-# Install dependencies with all permissions
-$ sudo npm install --unsafe-perm=true --allow-root
-```
-
-Once your server has started, go to this url `http://localhost:8000/` and you will see the website running on a Development Server:
-
-<h2 align="center">
-  <
-</h2>
-
----
-
-
-
-### Required - Disable GitHub buttons
-
-Set `isEnabled` to `false` once you finish setup your portfolio.\
-By setting to `false` it will hide the GitHub stars/fork buttons
-
-```javascript
-export const githubButtons = {
-  isEnabled: true, // true is the default value
-};
-```
 
 
 **_Note_**: I highly recommend to checkout gradients variations on [UI Gradient](https://uigradients.com/#BrightVault)
